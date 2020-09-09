@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-leandrovalter-red.svg)](https://www.linkedin.com/in/leandrovalter)
 
 <p align="center">
-  <img src="env.norminv.png" >
+  
 </p>
 
 # Leandro Valter Gomes

@@ -7,9 +7,9 @@
 # Leandro Valter Gomes
 <sub>*Estatístico*</sub>
 
-Tenho experiência em diversas modelagens de dados, utilizo o R e Python para realização minhas análises. 
+Tenho experiência em diversas modelagens de dados, utilizo o R e Python para realização das minhas análises. 
 
-Minha graduação é em Estatística pela Universidade Estadual da Paraíba (UEPB) e atualmente sou mestrando no programa de Pós-graduação em Estatística e Experimentação Agropecuária da Universidade Federal de Lavras (UFLA).
+Graduado em Estatística pela Universidade Estadual da Paraíba (UEPB) e atualmente sou mestrando no programa de Pós-graduação em Estatística e Experimentação Agropecuária da Universidade Federal de Lavras (UFLA).
 
 **Experiência:** R, Python, Inferência Bayesiana, Séries Temporais e Estatística Espacial.
 
